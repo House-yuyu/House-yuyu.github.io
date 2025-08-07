@@ -42,7 +42,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/ClearAIR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><iframe src='images/papers/Any2RSI_img.pdf' width="100%"></iframe></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Any2RSI: Controllable Remote Sensing Text-to-Image Generation via Any Control and Enriched Description**]()
