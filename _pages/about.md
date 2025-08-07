@@ -212,7 +212,7 @@ Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zha
 
 
 # 💬 Academic Service
-- Conference Reviewer: ACMMM 2025, ICLR 2024/2025.
+- Conference Reviewer: ACMMM 2025, ICLR 2024/2025, AAAI 2026.
 - Journal Reviewer: TIP, TNNLS, TCSVT, TMM, TGRS, GRSL.
 
 
