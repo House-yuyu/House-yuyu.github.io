@@ -47,7 +47,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 [**Any2RSI: Controllable Remote Sensing Text-to-Image Generation via Any Control and Enriched Description**]()
 
-**Xu Zhang**, Jiangzhong Huang, Lefei Zhang.
+**Xu Zhang**, Jianzhong Huang, Lefei Zhang.
 
 [PDF]() | [Project]()
 </div>
