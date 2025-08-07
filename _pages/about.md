@@ -40,6 +40,34 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 ### **(* equal contribution, <sup>#</sup> corresponding author)**
 
+
+<!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/ClearAIR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Any2RSI: Controllable Remote Sensing Text-to-Image Generation via Any Control and Enriched Description**]()
+
+**Xu Zhang**, Jiangzhong Huang, Lefei Zhang.
+
+[PDF]() | [Project]()
+</div>
+</div>
+
+
+<!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/OmniIQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Hierarchical Graph Attention Network for No-Reference Omnidirectional Image Quality Assessment**]()
+
+Hao Yang, **Xu Zhang**, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi Lin.
+
+[PDF]() | [Project]()
+</div>
+</div>
+
+
+
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/ClearAIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,6 +79,8 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 [PDF]() | [Project]()
 </div>
 </div>
+
+
 
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/papers/Perceive-IR.png' alt="sym" width="100%"></div></div>
