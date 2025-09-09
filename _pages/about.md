@@ -110,7 +110,7 @@ Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi L
 
 
 <!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/MDDAformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU</div><img src='images/papers/MDDAformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Joint Multi-dimensional Dynamic Attention and Transformer for General Image Restoration**](https://arxiv.org/pdf/2411.07893)
