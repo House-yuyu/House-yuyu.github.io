@@ -222,6 +222,6 @@ Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zha
     type="text/javascript" 
     id="clustrmaps" 
     src="//clustrmaps.com/map_v2.js?d=QtK1UJo6fX5kWwtVkdX56xfR4AfCCoc_TmmhfwXHyP8&cl=ffffff&w=a"
-    data-width="200" 
-    data-height="150">
+    data-width="100" 
+    data-height="75">
 </script>
