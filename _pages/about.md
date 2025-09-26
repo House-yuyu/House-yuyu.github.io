@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan University (WHU) @[Sigma](https://sigma.whu.edu.cn/) advised by [Prof. Lefei Zhang](https://jszy.whu.edu.cn/zhanglefei/zh_CN/index.htm) and [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN). Before that, I obtained a M.Eng degree from Guangdong University of Technology (GDUT) advised by [Dr. Huan Zhang](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN) and [Prof. Nian Cai](https://scholar.google.com.hk/citations?user=hxDRrEQAAAAJ&hl=zh-CN). I’m fortunate to work closely with [Prof. Weisi Lin](https://scholar.google.com.hk/citations?user=D_S41X4AAAAJ&hl=zh-CN) from NTU. My research interests include:
 
-- <span style="color: #008B8B">**Low-level Vision Perception**</span>: All-in-One image restoration, Image/Video quality assessment  
+- <span style="color: #008B8B">**Low-level Vision Perception**</span>: All-in-One image restoration, Agentic image restoration, Image/Video quality assessment  
 - <span style="color: #FFB6C1">**Multimodal Learning**</span>: Text-to-Image generation, Diffusion model
 
 📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to concat.
@@ -32,6 +32,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 
 # 🔥 News
+- 2025.09: 🎉 One paper accepted by TIP'25!
 - 2025.04: 🎉 One paper accepted by TIP'25!
 
 
@@ -96,7 +97,7 @@ Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi L
 
 <!-- ------------------------------------ -->
 <!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/UniUIR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/papers/UniUIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**UniUIR: Considering Underwater Image Restoration as An All-in-One Learner**](https://arxiv.org/pdf/2501.12981)
@@ -217,4 +218,10 @@ Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zha
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QtK1UJo6fX5kWwtVkdX56xfR4AfCCoc_TmmhfwXHyP8&cl=ffffff&w=a"></script>
+<script 
+    type="text/javascript" 
+    id="clustrmaps" 
+    src="//clustrmaps.com/map_v2.js?d=QtK1UJo6fX5kWwtVkdX56xfR4AfCCoc_TmmhfwXHyP8&cl=ffffff&w=a"
+    data-width="200" 
+    data-height="150">
+</script>
