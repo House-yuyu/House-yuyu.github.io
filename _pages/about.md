@@ -32,8 +32,8 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 
 # 🔥 News
-- 2025.09: 🎉 One paper accepted by TIP'25!
-- 2025.04: 🎉 One paper accepted by TIP'25!
+- 2025.09: 🎉🎉🎉 One paper (UniUIR) has been accepted by IEEE Transactions on Image Processing!
+- 2025.04: 🎉🎉🎉 One paper (Perceive-IR) has been accepted by IEEE Transactions on Image Processing!
 
 
 # 📝 Publications
