@@ -104,7 +104,7 @@ Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi L
 
 **Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du.
 
-[PDF](https://arxiv.org/pdf/2501.12981) | [Project](https://house-yuyu.github.io/UniUIR)
+[PDF](https://arxiv.org/pdf/2501.12981) | [Project](https://House-yuyu.github.io/UniUIR)
 </div>
 </div>
 
