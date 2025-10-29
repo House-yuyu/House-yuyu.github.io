@@ -212,7 +212,7 @@ Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zha
 
 
 # 🔬 Internships
-- 2023.10-2025.07, Horizon Robotics, Research Intern.
+- 2023.10-2025.07,&nbsp;&nbsp;&nbsp;&nbsp;Horizon Robotics,&nbsp;&nbsp;&nbsp;&nbsp;Research Intern.
 
 # 💬 Academic Service
 - Conference Reviewer: ACMMM 2025, ICLR 2024/2025, AAAI 2026.
