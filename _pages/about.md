@@ -32,8 +32,9 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 
 # 🔥 News
-- 2025.09: 🎉🎉🎉 One paper (UniUIR) has been accepted by IEEE Transactions on Image Processing!
-- 2025.04: 🎉🎉🎉 One paper (Perceive-IR) has been accepted by IEEE Transactions on Image Processing!
+- 2025.11: 🎉🎉🎉 Two paper (Any2RSI, ClearAIR) have been accepted by AAAI'2026!
+- 2025.09: 🎉🎉🎉 One paper (UniUIR) has been accepted by IEEE-TIP!
+- 2025.04: 🎉🎉🎉 One paper (Perceive-IR) has been accepted by IEEE-TIP!
 
 
 # 📝 Publications
@@ -43,7 +44,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/Any2RSI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'2026</div><img src='images/papers/Any2RSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Any2RSI: Controllable Remote Sensing Text-to-Image Generation via Any Control and Enriched Description**]()
@@ -70,7 +71,7 @@ Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi L
 
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/ClearAIR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'2026</div><img src='images/papers/ClearAIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration**]()
