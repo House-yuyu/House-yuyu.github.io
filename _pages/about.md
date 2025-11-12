@@ -216,8 +216,8 @@ Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zha
 - 2023.10-2025.07,&nbsp;&nbsp;&nbsp;&nbsp;Horizon Robotics,&nbsp;&nbsp;&nbsp;&nbsp;Research Intern.
 
 # 💬 Academic Service
-- Conference Reviewer: ACMMM 2025, ICLR 2024/2025, AAAI 2026.
-- Journal Reviewer: TIP, TNNLS, TCSVT, TMM, TGRS, GRSL.
+- Conference Reviewer: ACMMM 2025, ICLR 2024/2025/2026, AAAI 2026, CVPR 2026.
+- Journal Reviewer: TIP, TNNLS, TCSVT, TMM, TGRS, GRSL, SPL, PR.
 
 
 
@@ -225,6 +225,6 @@ Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zha
     type="text/javascript" 
     id="clustrmaps" 
     src="//clustrmaps.com/map_v2.js?d=QtK1UJo6fX5kWwtVkdX56xfR4AfCCoc_TmmhfwXHyP8&cl=ffffff&w=a"
-    data-width="100" 
-    data-height="75">
+    data-width="50" 
+    data-height="35">
 </script>
