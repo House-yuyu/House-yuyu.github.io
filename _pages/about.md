@@ -49,7 +49,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 [**Any2RSI: Controllable Remote Sensing Text-to-Image Generation via Any Control and Enriched Description**]()
 
-**Xu Zhang**, Jianzhong Huang, Lefei Zhang.
+**Xu Zhang**, Jianzhong Huang, Lefei Zhang
 
 [PDF]() | [Project]()
 </div>
@@ -62,7 +62,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 [**Hierarchical Graph Attention Network for No-Reference Omnidirectional Image Quality Assessment**]()
 
-Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi Lin.
+Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi Lin
 
 [PDF]() | [Project]()
 </div>
@@ -76,7 +76,7 @@ Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi L
 
 [**ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration**]()
 
-**Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du.
+**Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du
 
 [PDF]() | [Project]()
 </div>
@@ -90,7 +90,7 @@ Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi L
 
 [**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**](https://arxiv.org/pdf/2408.15994)
 
-**Xu Zhang\***, Jiaqi Ma\*, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang.
+**Xu Zhang\***, Jiaqi Ma\*, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang
 
 [PDF](https://arxiv.org/pdf/2408.15994) | [Project](https://house-yuyu.github.io/Perceive-IR) 
 </div>
@@ -103,7 +103,7 @@ Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi L
 
 [**UniUIR: Considering Underwater Image Restoration as An All-in-One Learner**](https://arxiv.org/pdf/2501.12981)
 
-**Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du.
+**Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du
 
 [PDF](https://arxiv.org/pdf/2501.12981) | [Project](https://house-yuyu.github.io/UniUIR/)
 </div>
@@ -131,7 +131,7 @@ Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zha
 
 [**AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109)
 
-**Xu Zhang**; Nian Cai; Huan Zhang; Yun Zhang; Jianglei Di; Weisi Lin.
+**Xu Zhang**; Nian Cai, Huan Zhang, Yun Zhang, Jianglei Di, Weisi Lin
 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109) | [Code](https://github.com/House-yuyu/AFD-former)
 </div>
