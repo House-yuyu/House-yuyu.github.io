@@ -149,7 +149,6 @@ Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zha
     Texture and Structural Distortion Metric based on Dual-Tree Complex Wavelet Transform for DIBR-synthesized Image Quality Assessment. <strong>Digital Signal Processing 2025</strong>.
     <div style="display: inline">
         <a href=""> [paper]</a>
-        <a href=""> [code]</a>
     </div>
     <div><i>Huan Zhang, Zhijun Xiong, <strong>Xu Zhang</strong>, Jiangzhong Cao, Yun Zhang</i></div>
   </li>
@@ -162,7 +161,6 @@ Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zha
     Enhancing 3D video watching experiences: Tackling compression and 3D warping distortions in synthesized view with perceptual guidance. <strong>Expert Systems with Applications 2025</strong>.
     <div style="display: inline">
         <a href="https://www.sciencedirect.com/science/article/pii/S0957417424027209"> [paper]</a>
-        <a href=""> [code]</a>
     </div>
     <div><i>Huan Zhang, <strong>Xu Zhang</strong>, Linwei Zhu, Yun Zhang, Jiangzhong Cao, Wing-Kuen Ling</i></div>
   </li>
@@ -175,7 +173,7 @@ Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zha
     Unveiling the underwater world: CLIP perception model-guided underwater image enhancement. <strong>Pattern Recognition 2025</strong>.
     <div style="display: inline">
         <a href="https://www.sciencedirect.com/science/article/pii/S003132032500055X"> [paper]</a>
-        <a href=""> [code]</a>
+        <a href="https://github.com/Ave001025/UIE_CLIP"> [code]</a>
     </div>
     <div><i>Jiangzhong Cao, Zekai Zeng, <strong>Xu Zhang</strong>, Huan Zhang, Chunling Fan, Gangyi Jiang, Weisi Lin</i></div>
   </li>
@@ -188,7 +186,6 @@ Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zha
     A deep learning framework for the joint prediction of the SOH and RUL of lithium-ion batteries based on bimodal images. <strong>Energy 2024</strong>.
     <div style="display: inline">
         <a href="https://www.sciencedirect.com/science/article/pii/S0360544224014737"> [paper]</a>
-        <a href=""> [code]</a>
     </div>
     <div><i>Nian Cai, Xiaoping Que, <strong>Xu Zhang</strong>, Weiguo Feng, Yinghong Zhou</i></div>
   </li>
