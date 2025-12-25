@@ -41,9 +41,23 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 ### **(* equal contribution, <sup>#</sup> corresponding author)**
 
+<!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/CLB_CVPR26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**From Visibility to Detection: Saliency-Guided Underwater Image Restoration with Hierarchical Dual-Branch Refinement**]()
+
+Laibin Chang, Yunke Wang, **Xu Zhang**, Kui Jiang, Shaodong Wang, Bo Du
+
+[PDF]() | [Project]()
+</div>
+</div>
+
+
+
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'2026</div><img src='images/papers/Any2RSI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26 (Oral)</div><img src='images/papers/Any2RSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Any2RSI: Controllable Remote Sensing Text-to-Image Generation via Any Control and Enriched Description**]()
@@ -70,7 +84,7 @@ Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi L
 
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'2026</div><img src='images/papers/ClearAIR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26</div><img src='images/papers/ClearAIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration**]()
