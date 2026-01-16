@@ -70,7 +70,7 @@ Laibin Chang, Yunke Wang, **Xu Zhang**, Kui Jiang, Shaodong Wang, Bo Du
 
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/OmniIQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/yh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Hierarchical Graph Attention Network for No-Reference Omnidirectional Image Quality Assessment**]()
