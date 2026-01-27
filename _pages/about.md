@@ -36,10 +36,24 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 - 2025.04: 🎉🎉🎉 One paper (Perceive-IR) has been accepted by IEEE-TIP!
 
 
-# 📝 Publications
+# 📝 Selected Publications
 <!-- ------------------------------------ -->
 
 ### **(* equal contribution, <sup>#</sup> corresponding author)**
+
+
+<!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/InterLight_IJCAI26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**InterLight: Leveraging Intrinsic Image Priors for Low-Light Enhancement**]()
+
+Ziqi Wang, **Xu Zhang<sup>#</sup>**, Laibin Chang, Shi Chen, Jiaqi Ma, Huan Zhang
+
+[PDF]() | [Project]()
+</div>
+</div>
+
 
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/CLB_CVPR26.png' alt="sym" width="100%"></div></div>
@@ -151,57 +165,6 @@ Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zha
 </div>
 
 
-
-<!-- # 📝 Other Publications  -->
-<ul>
-
-
-
-  <!-- Paper 1 -->
-  <li>
-    Texture and Structural Distortion Metric based on Dual-Tree Complex Wavelet Transform for DIBR-synthesized Image Quality Assessment. <strong>Digital Signal Processing 2025</strong>.
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-    </div>
-    <div><i>Huan Zhang, Zhijun Xiong, <strong>Xu Zhang</strong>, Jiangzhong Cao, Yun Zhang</i></div>
-  </li>
-
-
-
-  <!-- ------------------------------------ -->
-  <!-- Paper 2 -->
-  <li>
-    Enhancing 3D video watching experiences: Tackling compression and 3D warping distortions in synthesized view with perceptual guidance. <strong>Expert Systems with Applications 2025</strong>.
-    <div style="display: inline">
-        <a href="https://www.sciencedirect.com/science/article/pii/S0957417424027209"> [paper]</a>
-    </div>
-    <div><i>Huan Zhang, <strong>Xu Zhang</strong>, Linwei Zhu, Yun Zhang, Jiangzhong Cao, Wing-Kuen Ling</i></div>
-  </li>
-
-
-
-  <!-- ------------------------------------ -->
-  <!-- Paper 3 -->
-  <li>
-    Unveiling the underwater world: CLIP perception model-guided underwater image enhancement. <strong>Pattern Recognition 2025</strong>.
-    <div style="display: inline">
-        <a href="https://www.sciencedirect.com/science/article/pii/S003132032500055X"> [paper]</a>
-        <a href="https://github.com/Ave001025/UIE_CLIP"> [code]</a>
-    </div>
-    <div><i>Jiangzhong Cao, Zekai Zeng, <strong>Xu Zhang</strong>, Huan Zhang, Chunling Fan, Gangyi Jiang, Weisi Lin</i></div>
-  </li>
-
-
-
-  <!-- ------------------------------------ -->
-  <!-- Paper 4 -->
-  <li>
-    A deep learning framework for the joint prediction of the SOH and RUL of lithium-ion batteries based on bimodal images. <strong>Energy 2024</strong>.
-    <div style="display: inline">
-        <a href="https://www.sciencedirect.com/science/article/pii/S0360544224014737"> [paper]</a>
-    </div>
-    <div><i>Nian Cai, Xiaoping Que, <strong>Xu Zhang</strong>, Weiguo Feng, Yinghong Zhou</i></div>
-  </li>
 
 
 
