@@ -138,26 +138,13 @@ Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi L
 
 
 
-<!-- Paper 2 -->
-[**Joint Multi-dimensional Dynamic Attention and Transformer for General Image Restoration**](https://arxiv.org/pdf/2411.07893)
-
-Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zhang
-
+[CVIU 2025] **Joint Multi-dimensional Dynamic Attention and Transformer for General Image Restoration**  
+Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zhang  
 [PDF](https://arxiv.org/pdf/2411.07893) | [Code](https://github.com/House-yuyu/MDDA-former)
 
-
-
-
-<!-- Paper 2 -->
-[**AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109)
-
-**Xu Zhang**; Nian Cai, Huan Zhang, Yun Zhang, Jianglei Di, Weisi Lin
-
+[IEEE TCSVT 2023] **AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement**  
+**Xu Zhang**, Nian Cai, Huan Zhang, Yun Zhang, Jianglei Di, Weisi Lin  
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109) | [Code](https://github.com/House-yuyu/AFD-former)
-
-
-
-
 
 
 
