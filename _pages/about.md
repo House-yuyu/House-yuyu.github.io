@@ -43,6 +43,20 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 
 <!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/CogRestore.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CogRestore: Chain-of-Thought Reasoning for Text-Guided All-in-One Remote Sensing Image Restoration**]()
+
+**Xu Zhang**, Jiaqi Ma, Huan Zhang, Jun Wan, Lefei Zhang
+
+[PDF]() | [Project]()
+</div>
+</div>
+
+
+
+<!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/InterLight_IJCAI26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,20 +67,6 @@ Ziqi Wang, **Xu Zhang<sup>#</sup>**, Laibin Chang, Shi Chen, Jiaqi Ma, Huan Zhan
 [PDF]() | [Project]()
 </div>
 </div>
-
-
-<!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/CLB_CVPR26.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**From Visibility to Detection: Saliency-Guided Underwater Image Restoration with Hierarchical Dual-Branch Refinement**]()
-
-Laibin Chang, Yunke Wang, **Xu Zhang**, Kui Jiang, Shaodong Wang, Bo Du
-
-[PDF]() | [Project]()
-</div>
-</div>
-
 
 
 
@@ -139,30 +139,22 @@ Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi L
 
 
 <!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2025</div><img src='images/papers/MDDAformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [**Joint Multi-dimensional Dynamic Attention and Transformer for General Image Restoration**](https://arxiv.org/pdf/2411.07893)
 
 Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zhang
 
 [PDF](https://arxiv.org/pdf/2411.07893) | [Code](https://github.com/House-yuyu/MDDA-former)
-</div>
-</div>
+
 
 
 
 <!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/papers/AFDformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [**AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109)
 
 **Xu Zhang**; Nian Cai, Huan Zhang, Yun Zhang, Jianglei Di, Weisi Lin
 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109) | [Code](https://github.com/House-yuyu/AFD-former)
-</div>
-</div>
+
 
 
 
