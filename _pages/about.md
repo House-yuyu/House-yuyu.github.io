@@ -43,6 +43,19 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 
 <!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/PROTEUS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**From Degradation Guidance to Latent Purification: A Unified Network for Underwater Image Restoration**]()
+
+**Xu Zhang**, Xuhui Cao, Kangzhe Yuan, Laibin Chang, Huan Zhang, Lefei Zhang
+
+[PDF]() | [Code](https://github.com/House-yuyu/PROTEUS)
+</div>
+</div>
+
+
+<!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/CogRestore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +63,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 **Xu Zhang**, Jiaqi Ma, Huan Zhang, Jun Wan, Lefei Zhang
 
-[PDF]() | [Project]()
+[PDF]() | [Code](https://github.com/House-yuyu/CogRestore)
 </div>
 </div>
 
@@ -64,7 +77,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 Ziqi Wang, **Xu Zhang<sup>#</sup>**, Laibin Chang, Shi Chen, Jiaqi Ma, Huan Zhang
 
-[PDF]() | [Project]()
+[PDF]() | [Code](https://github.com/House-yuyu/InterLight)
 </div>
 </div>
 
@@ -78,7 +91,7 @@ Ziqi Wang, **Xu Zhang<sup>#</sup>**, Laibin Chang, Shi Chen, Jiaqi Ma, Huan Zhan
 
 **Xu Zhang**, Jianzhong Huang, Lefei Zhang
 
-[PDF]() | [Project]()
+[PDF]() | [Code](https://github.com/House-yuyu/Any2RSI)
 </div>
 </div>
 
@@ -105,7 +118,7 @@ Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi L
 
 **Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang
 
-[PDF]() | [Project]()
+[PDF]() | [Code](https://github.com/House-yuyu/ClearAIR)
 </div>
 </div>
 
