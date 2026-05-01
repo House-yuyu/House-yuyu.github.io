@@ -31,6 +31,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 
 # 🔥 News
+- 2026.05: 🎉🎉🎉 One paper (InterLight) has been accepted by IJCAI'2026!
 - 2025.11: 🎉🎉🎉 Two paper (Any2RSI, ClearAIR) have been accepted by AAAI'2026!
 - 2025.09: 🎉🎉🎉 One paper (UniUIR) has been accepted by IEEE-TIP!
 - 2025.04: 🎉🎉🎉 One paper (Perceive-IR) has been accepted by IEEE-TIP!
@@ -70,10 +71,10 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/InterLight_IJCAI26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'26</div><img src='images/papers/InterLight_IJCAI26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**InterLight: Leveraging Intrinsic Image Priors for Low-Light Enhancement**]()
+[**InterLight: Leveraging Intrinsic Illumination Priors for Low-Light Image Enhancement**]()
 
 Ziqi Wang, **Xu Zhang<sup>#</sup>**, Laibin Chang, Shi Chen, Jiaqi Ma, Huan Zhang
 
