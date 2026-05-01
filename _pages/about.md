@@ -18,8 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan University (WHU). I am affiliated with the [SIGMA Lab](https://sigma.whu.edu.cn/), which is headed by [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN), and I am advised by [Prof. Lefei Zhang](https://jszy.whu.edu.cn/zhanglefei/zh_CN/index.htm). Before that, I obtained a M.Eng degree from Guangdong University of Technology (GDUT) advised by [Dr. Huan Zhang](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN) and [Prof. Nian Cai](https://scholar.google.com.hk/citations?user=hxDRrEQAAAAJ&hl=zh-CN). I worked as a research intern at Horizon Robotics, collaborating with [Dr. Guoli Wang](https://scholar.google.com.hk/citations?user=z-25fk0AAAAJ&hl=zh-CN) and [Dr. Qian Zhang](https://scholar.google.com.hk/citations?user=pCY-bikAAAAJ&hl=zh-CN). I’m fortunate to work closely with [Prof. Weisi Lin](https://scholar.google.com.hk/citations?user=D_S41X4AAAAJ&hl=zh-CN) from Nanyang Technological University (NTU) and [Prof. Yun Zhang](https://scholar.google.com/citations?user=tZp-uVoAAAAJ&hl=en) from Sun Yat-sen University (SYSU). My research interests include:
 
-- <span style="color: #008B8B">**Low-level Vision Perception**</span>: All-in-One image restoration, Agentic image restoration, Image/Video quality assessment  
-- <span style="color: #FFB6C1">**Multimodal Learning**</span>: Text-to-Image generation, Diffusion model
+- <span style="color: #008B8B"><b>Low-level Vision</b></span>: All-in-One image restoration, Agentic image restoration, Image/Video quality assessment   
+- <span style="color: #9370DB"><b>VLA & 3D Perception</b></span>: Vision-Language-Action Modeling, 3D Reconstruction, Spatial Understanding  
+- <span style="color: #FFB6C1"><b>Generative Multimodal Learning</b></span>: Diffusion Models, Text-to-Image Generation  
 
 📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to concat.
 
