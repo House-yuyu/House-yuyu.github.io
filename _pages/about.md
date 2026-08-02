@@ -48,7 +48,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/PROTEUS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**From Degradation Guidance to Latent Purification: A Unified Network for Underwater Image Restoration**]()
+[**Degradation-Guided Underwater Image Restoration with Task-Oriented Latent Control**]()
 
 **Xu Zhang**, Xuhui Cao, Kangzhe Yuan, Laibin Chang, Huan Zhang, Lefei Zhang
 
