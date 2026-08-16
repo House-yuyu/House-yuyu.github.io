@@ -178,8 +178,8 @@ Huan Zhang, **Xu Zhang<sup>📧**, Nian Cai📧, Jianglei Di, Yun Zhang
 - 2023.10-2025.07,&nbsp;&nbsp;&nbsp;&nbsp;Horizon Robotics,&nbsp;&nbsp;&nbsp;&nbsp;Research Intern.
 
 # 💬 Academic Service
-- Conference Reviewer: ACMMM 2025/2026, ICLR 2024/2025/2026, AAAI 2026, CVPR 2026, ICML 2026, ECCV 2026.
-- Journal Reviewer: TIP, TNNLS, TCSVT, TMM, TGRS, GRSL, SPL, PR, EAAI, ESWA.
+- Conference Reviewer: ACMMM 2025/2026, ICLR 2024/2025/2026, AAAI 2026/2027, CVPR 2026, ICML 2026, ECCV 2026.
+- Journal Reviewer: TIP, TNNLS, TCSVT, TMM, TGRS, PR, EAAI, ESWA.
 
 
 
