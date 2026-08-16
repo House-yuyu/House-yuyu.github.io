@@ -41,7 +41,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 # 📝 Selected Publications
 <!-- ------------------------------------ -->
 
-### **(* equal contribution, <sup>#</sup> corresponding author)**
+### (* equal contribution, 📧 corresponding author)
 
 
 <!-- Paper 1 -->
@@ -50,7 +50,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 [**Degradation-Guided Underwater Image Restoration with Task-Oriented Latent Control**]()
 
-**Xu Zhang**, Xuhui Cao, Kangzhe Yuan, Laibin Chang, Huan Zhang, Lefei Zhang
+**Xu Zhang**, Xuhui Cao, Kangzhe Yuan, Laibin Chang, Yichu Xu, Shi Chen, Huan Zhang, Yong Chen
 
 [PDF]() | [Code](https://github.com/House-yuyu/PROTEUS)
 </div>
@@ -77,7 +77,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 [**InterLight: Leveraging Intrinsic Illumination Priors for Low-Light Image Enhancement**]()
 
-Ziqi Wang, **Xu Zhang<sup>#</sup>**, Laibin Chang, Shi Chen, Jiaqi Ma, Huan Zhang
+Ziqi Wang, **Xu Zhang<sup>📧**, Laibin Chang, Shi Chen, Jiaqi Ma, Huan Zhang📧
 
 [PDF]() | [Code](https://github.com/House-yuyu/InterLight)
 </div>
@@ -154,7 +154,7 @@ Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi L
 
 
 [CVIU 2025] **Joint Multi-dimensional Dynamic Attention and Transformer for General Image Restoration**  
-Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zhang  
+Huan Zhang, **Xu Zhang<sup>📧**, Nian Cai📧, Jianglei Di, Yun Zhang  
 [PDF](https://arxiv.org/pdf/2411.07893) | [Code](https://github.com/House-yuyu/MDDA-former)
 
 [IEEE TCSVT 2023] **AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement**  
