@@ -5,13 +5,41 @@
 .masthead {
   position: sticky;
   top: 0;
-  background-color: white;
-  border-bottom: 1px solid $border-color;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
-  z-index: 20;
+  overflow: visible;
+  isolation: isolate;
+  background: rgba(210, 238, 244, 0.36) !important;
+  -webkit-backdrop-filter: blur(24px) saturate(1.55);
+  backdrop-filter: blur(24px) saturate(1.55);
+  border-bottom: 0;
+  box-shadow: 0 4px 12px rgba(31, 45, 61, 0.12), inset 0 0 rgba(31, 45, 61, 0.08);
+  z-index: 1000;
+
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    clip-path: inset(0);
+    pointer-events: none;
+  }
+
+  &::before {
+    z-index: -2;
+    background:
+      radial-gradient(circle at 12% 35%, rgba(154, 123, 255, 0.38), transparent 28%),
+      radial-gradient(circle at 45% 18%, rgba(90, 210, 255, 0.34), transparent 30%),
+      radial-gradient(circle at 72% 45%, rgba(96, 226, 170, 0.34), transparent 28%),
+      radial-gradient(circle at 90% 24%, rgba(255, 190, 118, 0.34), transparent 26%);
+    background-size: 220% 220%;
+    filter: blur(12px);
+    opacity: 0.64;
+    animation: masthead-aurora 6s ease-in-out infinite alternate;
+  }
+
+  &::after {
+    z-index: -1;
+    background: transparent;
+  }
 
   &__inner-wrap {
     @include container;
@@ -33,7 +61,31 @@
   }
 }
 
+@keyframes masthead-aurora {
+  0% {
+    background-position: 0% 35%;
+  }
+
+  50% {
+    background-position: 100% 60%;
+  }
+
+  100% {
+    background-position: 30% 80%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .masthead::before {
+    animation: none;
+  }
+}
+
 .masthead__menu {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
 
   ul {
     margin: 0;
@@ -47,6 +99,7 @@
   @include breakpoint($medium) {
     display: block !important;
   }
+
   display: none !important;
 }
 
@@ -61,4 +114,31 @@
   }
 }
 
+/* All inner elements should be transparent to avoid color breaks */
+.masthead .masthead__inner-wrap,
+.masthead #site-nav.greedy-nav,
+.masthead .greedy-nav,
+.masthead .greedy-nav ul,
+.masthead .greedy-nav li,
+.masthead .greedy-nav a,
+.masthead .greedy-nav .visible-links {
+  background: transparent !important;
+}
 
+/* More dropdown button */
+.masthead .greedy-nav__more {
+  color: #555;
+}
+
+/* Hidden links dropdown with semi-transparent background */
+.masthead .greedy-nav .hidden-links {
+  background: rgba(255, 255, 255, 0.95) !important;
+
+  &::after {
+    border-bottom-color: rgba(255, 255, 255, 0.95) !important;
+  }
+
+  a:hover {
+    background: rgba(0, 0, 0, 0.05) !important;
+  }
+}

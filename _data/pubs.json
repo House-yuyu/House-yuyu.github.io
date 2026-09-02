@@ -1,0 +1,178 @@
+{
+  "journal": [
+    {
+      "id": "zhang2025perceiveir",
+      "title": "Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration",
+      "authorRoles": { "equalContribution": [1, 2] },
+      "venue": "IEEE Transactions on Image Processing",
+      "venueShort": "IEEE TIP",
+      "year": 2025,
+      "badge": "IEEE TIP 2025",
+      "image": "images/papers/Perceive-IR.png",
+      "doi": "https://ieeexplore.ieee.org/document/10990319/",
+      "note": "All-in-One Image Restoration",
+      "highlights": [
+        { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
+      ],
+      "links": [
+        { "name": "PDF", "url": "https://arxiv.org/pdf/2408.15994" },
+        { "name": "Project", "url": "https://house-yuyu.github.io/Perceive-IR" },
+        { "name": "Code", "url": "https://github.com/House-yuyu/Perceive-IR" }
+      ],
+      "referenceKey": "zhang2025perceiveir"
+    },
+    {
+      "id": "zhang2025uniuir",
+      "title": "UniUIR: Considering Underwater Image Restoration as An All-in-One Learner",
+      "venue": "IEEE Transactions on Image Processing",
+      "venueShort": "IEEE TIP",
+      "year": 2025,
+      "badge": "IEEE TIP 2025",
+      "image": "images/papers/UniUIR.png",
+      "doi": "https://arxiv.org/abs/2501.12981",
+      "note": "All-in-One Underwater Image Restoration",
+      "links": [
+        { "name": "PDF", "url": "https://arxiv.org/pdf/2501.12981" },
+        { "name": "Project", "url": "https://house-yuyu.github.io/UniUIR/" },
+        { "name": "Code", "url": "https://github.com/House-yuyu/UniUIR" }
+      ],
+      "referenceKey": "zhang2025uniuir"
+    },
+    {
+      "id": "zhang2025mddaformer",
+      "title": "Joint Multi-dimensional Dynamic Attention and Transformer for General Image Restoration",
+      "authorRoles": { "corresponding": [2, 3] },
+      "venue": "Computer Vision and Image Understanding",
+      "venueShort": "CVIU",
+      "year": 2025,
+      "badge": "CVIU 2025",
+      "image": "images/papers/MDDAformer.png",
+      "doi": "https://www.sciencedirect.com/science/article/pii/S1077314225002140",
+      "note": "General Image Restoration",
+      "links": [
+        { "name": "PDF", "url": "https://arxiv.org/pdf/2411.07893" },
+        { "name": "Code", "url": "https://github.com/House-yuyu/MDDA-former" }
+      ],
+      "referenceKey": "zhang2025mddaformer"
+    },
+    {
+      "id": "zhang2023afdformer",
+      "title": "AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement",
+      "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
+      "venueShort": "IEEE TCSVT",
+      "year": 2023,
+      "badge": "IEEE TCSVT 2023",
+      "image": "images/papers/AFDformer.png",
+      "doi": "https://ieeexplore.ieee.org/document/10036109",
+      "note": "Synthesized View Quality Enhancement",
+      "links": [
+        { "name": "PDF", "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109" },
+        { "name": "Code", "url": "https://github.com/House-yuyu/AFD-former" }
+      ],
+      "referenceKey": "zhang2023afdformer"
+    }
+  ],
+  "conference": [
+    {
+      "id": "wang2026interlight",
+      "title": "InterLight: Leveraging Intrinsic Illumination Priors for Low-Light Image Enhancement",
+      "authorRoles": { "corresponding": [2, 6] },
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "venueShort": "IJCAI",
+      "year": 2026,
+      "badge": "IJCAI 2026",
+      "image": "images/papers/InterLight_IJCAI26.png",
+      "doi": "https://arxiv.org/abs/2605.19982",
+      "note": "Low-Light Image Enhancement",
+      "links": [
+        { "name": "PDF", "url": "https://arxiv.org/pdf/2605.19982" },
+        { "name": "Code", "url": "https://github.com/House-yuyu/InterLight" }
+      ],
+      "referenceKey": "wang2026interlight"
+    },
+    {
+      "id": "zhang2026any2rsi",
+      "title": "Any2RSI: Controllable Remote Sensing Text-to-Image Generation via Any Control and Enriched Description",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "venueShort": "AAAI",
+      "year": 2026,
+      "badge": "AAAI 2026 (Oral)",
+      "image": "images/papers/Any2RSI.png",
+      "doi": "https://doi.org/10.1609/aaai.v40i15.38283",
+      "note": "Controllable Remote Sensing Image Generation",
+      "highlights": [
+        { "type": "hot", "label": "Oral Presentation" }
+      ],
+      "links": [
+        { "name": "PDF", "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38283/42245" },
+        { "name": "Code", "url": "https://github.com/House-yuyu/Any2RSI" }
+      ],
+      "referenceKey": "zhang2026any2rsi"
+    },
+    {
+      "id": "zhang2026clearair",
+      "title": "ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "venueShort": "AAAI",
+      "year": 2026,
+      "badge": "AAAI 2026",
+      "image": "images/papers/ClearAIR.png",
+      "doi": "https://doi.org/10.1609/aaai.v40i15.38284",
+      "note": "All-in-One Image Restoration",
+      "links": [
+        { "name": "PDF", "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38284/42246" },
+        { "name": "Code", "url": "https://github.com/House-yuyu/ClearAIR" }
+      ],
+      "referenceKey": "zhang2026clearair"
+    }
+  ],
+  "preprint": [
+    {
+      "id": "zhang2026proteus",
+      "title": "Degradation-Guided Underwater Image Restoration with Task-Oriented Latent Control",
+      "venue": "arXiv",
+      "venueShort": "arXiv",
+      "year": 2026,
+      "badge": "Under Review",
+      "image": "images/papers/PROTEUS.png",
+      "doi": "https://arxiv.org/abs/2608.08661",
+      "note": "Underwater Image Restoration",
+      "links": [
+        { "name": "PDF", "url": "https://arxiv.org/pdf/2608.08661" },
+        { "name": "Code", "url": "https://github.com/House-yuyu/PROTEUS" }
+      ],
+      "referenceKey": "zhang2026proteus"
+    },
+    {
+      "id": "zhang2026cogrestore",
+      "title": "CogRestore: Chain-of-Thought Reasoning for Text-Guided All-in-One Remote Sensing Image Restoration",
+      "venue": "Under Review",
+      "venueShort": "Under Review",
+      "year": 2026,
+      "badge": "Under Review",
+      "image": "images/papers/CogRestore.png",
+      "note": "Remote Sensing Image Restoration",
+      "links": [
+        { "name": "Code", "url": "https://github.com/House-yuyu/CogRestore" }
+      ],
+      "referenceKey": "zhang2026cogrestore"
+    },
+    {
+      "id": "yang2025omniqa",
+      "title": "Hierarchical Graph Attention Network for No-Reference Omnidirectional Image Quality Assessment",
+      "authorRoles": { "equalContribution": [1, 2] },
+      "venue": "arXiv",
+      "venueShort": "arXiv",
+      "year": 2025,
+      "badge": "Under Review",
+      "image": "images/papers/OmniIQA.png",
+      "doi": "https://arxiv.org/abs/2508.09843",
+      "note": "Omnidirectional Image Quality Assessment",
+      "links": [
+        { "name": "PDF", "url": "https://arxiv.org/pdf/2508.09843" }
+      ],
+      "referenceKey": "yang2025omniqa"
+    }
+  ],
+  "patent": []
+}

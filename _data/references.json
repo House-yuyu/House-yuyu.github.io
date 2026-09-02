@@ -1,0 +1,174 @@
+{
+  "zhang2025perceiveir": {
+    "id": "zhang2025perceiveir",
+    "type": "article-journal",
+    "title": "Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration",
+    "author": [
+      { "family": "Zhang", "given": "Xu" },
+      { "family": "Ma", "given": "Jiaqi" },
+      { "family": "Wang", "given": "Guoli" },
+      { "family": "Zhang", "given": "Qian" },
+      { "family": "Zhang", "given": "Huan" },
+      { "family": "Zhang", "given": "Lefei" }
+    ],
+    "container-title": "IEEE Transactions on Image Processing",
+    "DOI": "10.1109/TIP.2025.3566300",
+    "URL": "https://ieeexplore.ieee.org/document/10990319/",
+    "issued": { "date-parts": [[2025]] }
+  },
+  "zhang2025uniuir": {
+    "id": "zhang2025uniuir",
+    "type": "article-journal",
+    "title": "UniUIR: Considering Underwater Image Restoration as An All-in-One Learner",
+    "author": [
+      { "family": "Zhang", "given": "Xu" },
+      { "family": "Zhang", "given": "Huan" },
+      { "family": "Wang", "given": "Guoli" },
+      { "family": "Zhang", "given": "Qian" },
+      { "family": "Zhang", "given": "Lefei" },
+      { "family": "Du", "given": "Bo" }
+    ],
+    "container-title": "IEEE Transactions on Image Processing",
+    "volume": "34",
+    "page": "6963-6977",
+    "URL": "https://arxiv.org/abs/2501.12981",
+    "issued": { "date-parts": [[2025]] }
+  },
+  "zhang2025mddaformer": {
+    "id": "zhang2025mddaformer",
+    "type": "article-journal",
+    "title": "Joint Multi-dimensional Dynamic Attention and Transformer for General Image Restoration",
+    "author": [
+      { "family": "Zhang", "given": "Huan" },
+      { "family": "Zhang", "given": "Xu" },
+      { "family": "Cai", "given": "Nian" },
+      { "family": "Di", "given": "Jianglei" },
+      { "family": "Zhang", "given": "Yun" }
+    ],
+    "container-title": "Computer Vision and Image Understanding",
+    "volume": "261",
+    "page": "104491",
+    "DOI": "10.1016/j.cviu.2025.104491",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S1077314225002140",
+    "issued": { "date-parts": [[2025]] }
+  },
+  "zhang2023afdformer": {
+    "id": "zhang2023afdformer",
+    "type": "article-journal",
+    "title": "AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement",
+    "author": [
+      { "family": "Zhang", "given": "Xu" },
+      { "family": "Cai", "given": "Nian" },
+      { "family": "Zhang", "given": "Huan" },
+      { "family": "Zhang", "given": "Yun" },
+      { "family": "Di", "given": "Jianglei" },
+      { "family": "Lin", "given": "Weisi" }
+    ],
+    "container-title": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "volume": "33",
+    "issue": "8",
+    "page": "3786-3798",
+    "URL": "https://ieeexplore.ieee.org/document/10036109",
+    "issued": { "date-parts": [[2023]] }
+  },
+  "wang2026interlight": {
+    "id": "wang2026interlight",
+    "type": "paper-conference",
+    "title": "InterLight: Leveraging Intrinsic Illumination Priors for Low-Light Image Enhancement",
+    "author": [
+      { "family": "Wang", "given": "Ziqi" },
+      { "family": "Zhang", "given": "Xu" },
+      { "family": "Chang", "given": "Laibin" },
+      { "family": "Chen", "given": "Shi" },
+      { "family": "Ma", "given": "Jiaqi" },
+      { "family": "Zhang", "given": "Huan" }
+    ],
+    "container-title": "International Joint Conference on Artificial Intelligence",
+    "URL": "https://arxiv.org/abs/2605.19982",
+    "issued": { "date-parts": [[2026]] }
+  },
+  "zhang2026any2rsi": {
+    "id": "zhang2026any2rsi",
+    "type": "paper-conference",
+    "title": "Any2RSI: Controllable Remote Sensing Text-to-Image Generation via Any Control and Enriched Description",
+    "author": [
+      { "family": "Zhang", "given": "Xu" },
+      { "family": "Huang", "given": "Jianzhong" },
+      { "family": "Zhang", "given": "Lefei" }
+    ],
+    "container-title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "volume": "40",
+    "issue": "15",
+    "page": "12852-12860",
+    "DOI": "10.1609/aaai.v40i15.38283",
+    "URL": "https://ojs.aaai.org/index.php/AAAI/article/view/38283",
+    "issued": { "date-parts": [[2026]] }
+  },
+  "zhang2026clearair": {
+    "id": "zhang2026clearair",
+    "type": "paper-conference",
+    "title": "ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration",
+    "author": [
+      { "family": "Zhang", "given": "Xu" },
+      { "family": "Zhang", "given": "Huan" },
+      { "family": "Wang", "given": "Guoli" },
+      { "family": "Zhang", "given": "Qian" },
+      { "family": "Zhang", "given": "Lefei" }
+    ],
+    "container-title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "volume": "40",
+    "issue": "15",
+    "DOI": "10.1609/aaai.v40i15.38284",
+    "URL": "https://ojs.aaai.org/index.php/AAAI/article/view/38284",
+    "issued": { "date-parts": [[2026]] }
+  },
+  "zhang2026proteus": {
+    "id": "zhang2026proteus",
+    "type": "article-journal",
+    "title": "Degradation-Guided Underwater Image Restoration with Task-Oriented Latent Control",
+    "author": [
+      { "family": "Zhang", "given": "Xu" },
+      { "family": "Cao", "given": "Xuhui" },
+      { "family": "Yuan", "given": "Kangzhe" },
+      { "family": "Chang", "given": "Laibin" },
+      { "family": "Xu", "given": "Yichu" },
+      { "family": "Chen", "given": "Shi" },
+      { "family": "Zhang", "given": "Huan" },
+      { "family": "Chen", "given": "Yong" }
+    ],
+    "container-title": "arXiv",
+    "URL": "https://arxiv.org/abs/2608.08661",
+    "issued": { "date-parts": [[2026]] }
+  },
+  "zhang2026cogrestore": {
+    "id": "zhang2026cogrestore",
+    "type": "manuscript",
+    "title": "CogRestore: Chain-of-Thought Reasoning for Text-Guided All-in-One Remote Sensing Image Restoration",
+    "author": [
+      { "family": "Zhang", "given": "Xu" },
+      { "family": "Ma", "given": "Jiaqi" },
+      { "family": "Zhang", "given": "Huan" },
+      { "family": "Wan", "given": "Jun" },
+      { "family": "Zhang", "given": "Lefei" }
+    ],
+    "publisher": "Under review",
+    "issued": { "date-parts": [[2026]] }
+  },
+  "yang2025omniqa": {
+    "id": "yang2025omniqa",
+    "type": "article-journal",
+    "title": "Hierarchical Graph Attention Network for No-Reference Omnidirectional Image Quality Assessment",
+    "author": [
+      { "family": "Yang", "given": "Hao" },
+      { "family": "Zhang", "given": "Xu" },
+      { "family": "Ma", "given": "Jiaqi" },
+      { "family": "Zhu", "given": "Linwei" },
+      { "family": "Zhang", "given": "Yun" },
+      { "family": "Zhang", "given": "Huan" },
+      { "family": "Lin", "given": "Weisi" }
+    ],
+    "container-title": "arXiv",
+    "URL": "https://arxiv.org/abs/2508.09843",
+    "issued": { "date-parts": [[2025]] }
+  }
+}

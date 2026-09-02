@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026.05",
+    "emoji": "🎉",
+    "content": "Our paper [**InterLight**](https://arxiv.org/abs/2605.19982) was accepted by **IJCAI 2026**.",
+    "content_zh": "我们的论文 [**InterLight**](https://arxiv.org/abs/2605.19982) 被 **IJCAI 2026** 录用。"
+  },
+  {
+    "date": "2025.11",
+    "emoji": "🎉",
+    "content": "Two papers, [**Any2RSI**](https://ojs.aaai.org/index.php/AAAI/article/view/38283) and [**ClearAIR**](https://ojs.aaai.org/index.php/AAAI/article/view/38284), were accepted by **AAAI 2026**; Any2RSI was selected for an **Oral Presentation**.",
+    "content_zh": "两篇论文 [**Any2RSI**](https://ojs.aaai.org/index.php/AAAI/article/view/38283) 和 [**ClearAIR**](https://ojs.aaai.org/index.php/AAAI/article/view/38284) 被 **AAAI 2026** 录用，其中 Any2RSI 入选**口头报告**。"
+  },
+  {
+    "date": "2025.09",
+    "emoji": "🎉",
+    "content": "Our paper [**UniUIR**](https://arxiv.org/abs/2501.12981) was accepted by **IEEE TIP**.",
+    "content_zh": "我们的论文 [**UniUIR**](https://arxiv.org/abs/2501.12981) 被 **IEEE TIP** 录用。"
+  },
+  {
+    "date": "2025.04",
+    "emoji": "🎉",
+    "content": "Our paper [**Perceive-IR**](https://ieeexplore.ieee.org/document/10990319/) was accepted by **IEEE TIP**.",
+    "content_zh": "我们的论文 [**Perceive-IR**](https://ieeexplore.ieee.org/document/10990319/) 被 **IEEE TIP** 录用。"
+  }
+]

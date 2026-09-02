@@ -3,190 +3,102 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<span class="anchor" id="about-me"></span>
 
-<span class='anchor' id='about-me'></span>
-Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan University (WHU). I am affiliated with the [SIGMA Lab](https://sigma.whu.edu.cn/), which is headed by [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN), and I am advised by [Prof. Lefei Zhang](https://jszy.whu.edu.cn/zhanglefei/zh_CN/index.htm). Before that, I obtained a M.Eng degree from Guangdong University of Technology (GDUT) advised by [Dr. Huan Zhang](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN) and [Prof. Nian Cai](https://scholar.google.com.hk/citations?user=hxDRrEQAAAAJ&hl=zh-CN). I worked as a research intern at Horizon Robotics, collaborating with [Dr. Guoli Wang](https://scholar.google.com.hk/citations?user=z-25fk0AAAAJ&hl=zh-CN) and [Dr. Qian Zhang](https://scholar.google.com.hk/citations?user=pCY-bikAAAAJ&hl=zh-CN). I’m fortunate to work closely with [Prof. Weisi Lin](https://scholar.google.com.hk/citations?user=D_S41X4AAAAJ&hl=zh-CN) from Nanyang Technological University (NTU) and [Prof. Yun Zhang](https://scholar.google.com/citations?user=tZp-uVoAAAAJ&hl=en) from Sun Yat-sen University (SYSU). My research interests include:
+<div class="lang-en" markdown="1">
 
-- <span style="color: #008B8B"><b>Low-level Vision</b></span>: All-in-One image restoration, Agentic image restoration, Image/Video quality assessment   
-- <span style="color: #9370DB"><b>VLA & 3D Perception</b></span>: Vision-Language-Action Modeling, 3D Reconstruction, Spatial Understanding  
-- <span style="color: #FFB6C1"><b>Generative Multimodal Learning</b></span>: Diffusion Models, Text-to-Image Generation  
+👋 Welcome to my academic homepage. I am **Xu Zhang (张旭)**, a Ph.D. candidate at [Wuhan University (WHU)](https://www.whu.edu.cn/). I am a member of the [SIGMA Lab](https://sigma.whu.edu.cn/), headed by Prof. [Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN), and I am advised by Prof. [Lefei Zhang](https://jszy.whu.edu.cn/zhanglefei/zh_CN/index.htm). Before that, I received my M.Eng. degree from [Guangdong University of Technology (GDUT)](https://www.gdut.edu.cn/), advised by Dr. [Huan Zhang](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN) and Prof. [Nian Cai](https://scholar.google.com.hk/citations?user=hxDRrEQAAAAJ&hl=zh-CN). I also worked as a research intern at Horizon Robotics, collaborating with Dr. [Guoli Wang](https://scholar.google.com.hk/citations?user=z-25fk0AAAAJ&hl=zh-CN) and Dr. [Qian Zhang](https://scholar.google.com.hk/citations?user=pCY-bikAAAAJ&hl=zh-CN). I am fortunate to collaborate closely with Prof. [Weisi Lin](https://scholar.google.com.hk/citations?user=D_S41X4AAAAJ&hl=zh-CN) at Nanyang Technological University (NTU) and Prof. [Yun Zhang](https://scholar.google.com/citations?user=tZp-uVoAAAAJ&hl=en) at Sun Yat-sen University (SYSU). {% include google-scholar-badge.html inline=true %}
 
-📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to concat.
+🔍 My research interests include:
 
+- **<span style="color: #2b7a9b;">Low-level Vision</span>**: All-in-One Image Restoration, Agentic Image Restoration, and Image/Video Quality Assessment.
+- **<span style="color: #8a5bb7;">VLA & 3D Perception</span>**: Vision-Language-Action Modeling, 3D Reconstruction, and Spatial Understanding.
+- **<span style="color: #b7885b;">Generative Multimodal Learning</span>**: Diffusion Models and Text-to-Image Generation.
 
-# 📱 Contact
-- **WeChat**: ZhangXu_0809
-- **Email**: zhangx0802@whu.edu.cn
+🤝 I am open to research collaborations and welcome inquiries from anyone interested in my work. Please feel free to contact me at [zhangx0802@whu.edu.cn](mailto:zhangx0802@whu.edu.cn) or via WeChat (`ZhangXu_0809`).
 
-
-
-# 🔥 News
-- 2026.05: 🎉🎉🎉 One paper (InterLight) has been accepted by IJCAI'2026!
-- 2025.11: 🎉🎉🎉 Two paper (Any2RSI, ClearAIR) have been accepted by AAAI'2026!
-- 2025.09: 🎉🎉🎉 One paper (UniUIR) has been accepted by IEEE-TIP!
-- 2025.04: 🎉🎉🎉 One paper (Perceive-IR) has been accepted by IEEE-TIP!
-
-
-# 📝 Selected Publications
-<!-- ------------------------------------ -->
-
-### (* equal contribution, 📧 corresponding author)
-
-
-<!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/PROTEUS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Degradation-Guided Underwater Image Restoration with Task-Oriented Latent Control**]()
-
-**Xu Zhang**, Xuhui Cao, Kangzhe Yuan, Laibin Chang, Yichu Xu, Shi Chen, Huan Zhang, Yong Chen
-
-[PDF]() | [Code](https://github.com/House-yuyu/PROTEUS)
-</div>
 </div>
 
+<div class="lang-zh" markdown="1">
 
-<!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/CogRestore.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+👋 欢迎来到我的学术主页！我是**张旭（Xu Zhang）**，现为[武汉大学](https://www.whu.edu.cn/)博士研究生，所在 [SIGMA 团队](https://sigma.whu.edu.cn/)由[杜博](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN)教授负责，本人师从[张乐飞](https://jszy.whu.edu.cn/zhanglefei/zh_CN/index.htm)教授。此前，我在[广东工业大学](https://www.gdut.edu.cn/)获得硕士学位，师从[张欢](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN)博士和[蔡念](https://scholar.google.com.hk/citations?user=hxDRrEQAAAAJ&hl=zh-CN)教授。我曾在地平线机器人担任研究实习生，与[王国利](https://scholar.google.com.hk/citations?user=z-25fk0AAAAJ&hl=zh-CN)博士和[张倩](https://scholar.google.com.hk/citations?user=pCY-bikAAAAJ&hl=zh-CN)博士开展合作。同时，我有幸与南洋理工大学[林维思](https://scholar.google.com.hk/citations?user=D_S41X4AAAAJ&hl=zh-CN)教授和中山大学[张云](https://scholar.google.com/citations?user=tZp-uVoAAAAJ&hl=en)教授保持密切合作。{% include google-scholar-badge.html inline=true %}
 
-[**CogRestore: Chain-of-Thought Reasoning for Text-Guided All-in-One Remote Sensing Image Restoration**]()
+🔍 我的研究方向包括：
 
-**Xu Zhang**, Jiaqi Ma, Huan Zhang, Jun Wan, Lefei Zhang
+- **<span style="color: #2b7a9b;">低层视觉</span>**：一体化图像复原、智能体图像复原与图像/视频质量评价。
+- **<span style="color: #8a5bb7;">VLA 与三维感知</span>**：视觉-语言-动作建模、三维重建与空间理解。
+- **<span style="color: #b7885b;">生成式多模态学习</span>**：扩散模型与文本到图像生成。
 
-[PDF]() | [Code](https://github.com/House-yuyu/CogRestore)
-</div>
-</div>
+🤝 欢迎科研合作与交流，可通过邮箱 [zhangx0802@whu.edu.cn](mailto:zhangx0802@whu.edu.cn) 或微信（`ZhangXu_0809`）联系我。
 
-
-
-<!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'26</div><img src='images/papers/InterLight_IJCAI26.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**InterLight: Leveraging Intrinsic Illumination Priors for Low-Light Image Enhancement**]()
-
-Ziqi Wang, **Xu Zhang<sup>📧**, Laibin Chang, Shi Chen, Jiaqi Ma, Huan Zhang📧
-
-[PDF]() | [Code](https://github.com/House-yuyu/InterLight)
-</div>
 </div>
 
+# <span class="lang-en">🔥 News</span><span class="lang-zh">🔥 新闻动态</span>
+{: #news}
 
+<div class="news-scroll" markdown="1">
 
-<!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26 (Oral)</div><img src='images/papers/Any2RSI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+{% include news.html %}
 
-[**Any2RSI: Controllable Remote Sensing Text-to-Image Generation via Any Control and Enriched Description**]()
-
-**Xu Zhang**, Jianzhong Huang, Lefei Zhang
-
-[PDF]() | [Code](https://github.com/House-yuyu/Any2RSI)
-</div>
 </div>
 
+# <span class="lang-en">📝 Selected Publications</span><span class="lang-zh">📝 代表性论文</span>
+{: #publications}
 
-<!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/yh.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+{% include publications.html %}
 
-[**Hierarchical Graph Attention Network for No-Reference Omnidirectional Image Quality Assessment**]()
+# <span class="lang-en">🔬 Experience</span><span class="lang-zh">🔬 科研经历</span>
+{: #experience}
 
-Hao Yang\*, **Xu Zhang\***, Jiaqi Ma, Linwei Zhu, Yun Zhang, Huan Zhang, Weisi Lin
+<div class="lang-en" markdown="1">
 
-[PDF]() | [Project]()
-</div>
-</div>
+- **Research Intern**, Horizon Robotics, Oct. 2023–Jul. 2025.
 
-
-
-<!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26</div><img src='images/papers/ClearAIR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration**]()
-
-**Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang
-
-[PDF]() | [Code](https://github.com/House-yuyu/ClearAIR)
-</div>
 </div>
 
+<div class="lang-zh" markdown="1">
 
+- **研究实习生**，地平线机器人，2023 年 10 月–2025 年 7 月。
 
-<!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/papers/Perceive-IR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**](https://arxiv.org/pdf/2408.15994)
-
-**Xu Zhang\***, Jiaqi Ma\*, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang
-
-[PDF](https://arxiv.org/pdf/2408.15994) | [Project](https://house-yuyu.github.io/Perceive-IR) 
-</div>
 </div>
 
-<!-- ------------------------------------ -->
-<!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/papers/UniUIR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# <span class="lang-en">📋 Academic Service</span><span class="lang-zh">📋 学术服务</span>
+{: #services}
 
-[**UniUIR: Considering Underwater Image Restoration as An All-in-One Learner**](https://arxiv.org/pdf/2501.12981)
+<div class="lang-en" markdown="1">
 
-**Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du
+## Conference Reviewer
 
-[PDF](https://arxiv.org/pdf/2501.12981) | [Project](https://house-yuyu.github.io/UniUIR/)
+- ACM Multimedia 2025/2026, ICLR 2024/2025/2026, AAAI 2026/2027, CVPR 2026, ICML 2026, and ECCV 2026.
+
+## Journal Reviewer
+
+- IEEE TIP, TNNLS, TCSVT, TMM, and TGRS.
+- Pattern Recognition, Engineering Applications of Artificial Intelligence, and Expert Systems with Applications.
+
 </div>
+
+<div class="lang-zh" markdown="1">
+
+## 会议审稿人
+
+- ACM Multimedia 2025/2026、ICLR 2024/2025/2026、AAAI 2026/2027、CVPR 2026、ICML 2026 和 ECCV 2026。
+
+## 期刊审稿人
+
+- IEEE TIP、TNNLS、TCSVT、TMM 和 TGRS。
+- Pattern Recognition、Engineering Applications of Artificial Intelligence 和 Expert Systems with Applications。
+
 </div>
 
+<details class="misc-collapse" markdown="1">
+<summary><span class="collapse-icon">▶</span> <span class="lang-en">Visitor Map</span><span class="lang-zh">访客地图</span></summary>
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QtK1UJo6fX5kWwtVkdX56xfR4AfCCoc_TmmhfwXHyP8&cl=ffffff&w=a"></script>
 
-[CVIU 2025] **Joint Multi-dimensional Dynamic Attention and Transformer for General Image Restoration**  
-Huan Zhang, **Xu Zhang<sup>📧**, Nian Cai📧, Jianglei Di, Yun Zhang  
-[PDF](https://arxiv.org/pdf/2411.07893) | [Code](https://github.com/House-yuyu/MDDA-former)
-
-[IEEE TCSVT 2023] **AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement**  
-**Xu Zhang**, Nian Cai, Huan Zhang, Yun Zhang, Jianglei Di, Weisi Lin  
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109) | [Code](https://github.com/House-yuyu/AFD-former)
-
-
-
-<!-- # 🎖 Honors and Awards -->
-<!-- - National Scholarship in Xiamen University, 2024 -->
-<!-- - Outstanding Graduate in Jimei University, 2023 -->
-
-
-
-<!-- # 📖 Educations -->
-<!-- - Sep'2023-Jul'2026: Master Student, Xiamen University -->
-<!-- - Sep'2016-Jul'2020: B.Eng, Jimei University, Xiamen -->
-
-
-# 🔬 Internships
-- 2023.10-2025.07,&nbsp;&nbsp;&nbsp;&nbsp;Horizon Robotics,&nbsp;&nbsp;&nbsp;&nbsp;Research Intern.
-
-# 💬 Academic Service
-- Conference Reviewer: ACMMM 2025/2026, ICLR 2024/2025/2026, AAAI 2026/2027, CVPR 2026, ICML 2026, ECCV 2026.
-- Journal Reviewer: TIP, TNNLS, TCSVT, TMM, TGRS, PR, EAAI, ESWA.
-
-
-
-<script 
-    type="text/javascript" 
-    id="clustrmaps" 
-    src="//clustrmaps.com/map_v2.js?d=QtK1UJo6fX5kWwtVkdX56xfR4AfCCoc_TmmhfwXHyP8&cl=ffffff&w=a"
-    data-width="50" 
-    data-height="35">
-</script>
+</details>

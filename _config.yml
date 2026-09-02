@@ -7,9 +7,23 @@
 
 # Site Settings
 title                    : "Xu Zhang"
-description              : ""
-repository               : ""
+url                      : "https://house-yuyu.github.io"
+baseurl                  : ""
+description              : "Low-level vision, VLA and 3D perception, and generative multimodal learning."
+description_zh           : "低层视觉、视觉-语言-动作与三维感知、生成式多模态学习。"
+seo_title                : "Xu Zhang (张旭) | Academic Homepage"
+seo_description          : "Academic homepage of Xu Zhang (张旭), a Ph.D. candidate at Wuhan University, focusing on image restoration, VLA and 3D perception, and generative multimodal learning."
+repository               : "House-yuyu/House-yuyu.github.io"
 google_scholar_stats_use_cdn : true
+google_scholar:
+  id: "xDDy-DwAAAAJ"
+  fallback_citation_count: "..."
+  stats_branch: "google-scholar-stats"
+  stats_file: "gs_data.json"
+  stats_cdn_base_urls:
+    - "https://cdn.jsdmirror.com/gh"
+    - "https://cdn.jsdelivr.net/gh"
+  raw_base_url: "https://raw.githubusercontent.com"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -20,21 +34,27 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # 网站图标设置
-favicon                  : "images/favicon-32x32.jpg"  
+favicon                  : "images/favicon-32x32.jpg"
 # logo                     : "images/logo.png"     # 添加网站logo路径
 
 # Site Author
 author:
-  name             : "Xu Zhang/张旭"
+  name             : "Xu Zhang (张旭)"
+  name_zh          : "张旭"
+  citation_name:
+    given: "Xu"
+    family: "Zhang"
   avatar           : "images/photo1.jpg"
   bio              : "Wuhan University"
+  bio_zh           : "武汉大学"
   location         : "Wuhan, China"
+  location_zh      : "中国，武汉"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=xDDy-DwAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=xDDy-DwAAAAJ&hl=en"
   email            : "zhangx0802@whu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     :
+  uri              : "https://house-yuyu.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -47,7 +67,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         :
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

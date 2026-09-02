@@ -1,0 +1,427 @@
+/* Publication, education, and internship cards */
+$paper-box-image-width: 360px;
+$paper-box-padding: 2em;
+$edu-box-image-width: 240px;
+$card-padding: 1.1em;
+$compact-card-padding-block: 0.9em;
+
+.paper-box {
+  --card-image-width: #{$paper-box-image-width};
+  --card-image-min: 300px;
+  --card-image-share: 36%;
+
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border: 1px solid rgba($info-color, 0.14);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.72);
+  padding: $card-padding;
+  margin-bottom: 1.25em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    border-color: #b8d4fe;
+    box-shadow: 0 4px 20px rgba(66, 133, 244, 0.18), 0 0 0 3px rgba(66, 133, 244, 0.06);
+    transform: translateY(-2px);
+  }
+
+  .paper-box-image {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    order: 2;
+
+    > div {
+      position: relative;
+      width: var(--card-image-width);
+      max-width: 100%;
+    }
+
+    img {
+      width: var(--card-image-width);
+      max-width: 100%;
+      display: block;
+      box-shadow: none;
+      object-fit: contain;
+      border-radius: 6px;
+      background: #fff;
+    }
+  }
+
+  .paper-box-text {
+    min-width: 0;
+    max-width: 100%;
+    order: 1;
+    line-height: 1.45;
+  }
+
+  @include breakpoint($medium) {
+    .paper-box-image {
+      justify-content: left;
+      min-width: var(--card-image-width);
+      max-width: var(--card-image-width);
+      order: 1;
+    }
+
+    .paper-box-text {
+      justify-content: left;
+      padding-left: $paper-box-padding;
+      max-width: calc(100% - var(--card-image-width) - #{$paper-box-padding});
+      order: 2;
+    }
+  }
+}
+
+.paper-box--compact {
+  display: block;
+  padding: $compact-card-padding-block $card-padding;
+  margin-bottom: 0.8em;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.045);
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(66, 133, 244, 0.18), 0 0 0 3px rgba(66, 133, 244, 0.06);
+  }
+
+  .paper-box-text {
+    width: 100%;
+    max-width: none;
+    padding-left: 0;
+  }
+
+  .pub-title {
+    font-size: 1em;
+  }
+
+  .pub-authors,
+  .pub-venue,
+  .pub-details {
+    font-size: 0.9em;
+  }
+
+  .pub-btn {
+    min-height: 1.75em;
+    padding: 0.15em 0.62em;
+    font-size: 0.78em;
+  }
+}
+
+.paper-box--featured {
+  .paper-box-image {
+    > div {
+      aspect-ratio: 16 / 9;
+    }
+
+    img {
+      height: 100%;
+    }
+  }
+
+  .paper-box-text {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .pub-authors,
+  .pub-venue,
+  .pub-details {
+    margin-top: 0.45em;
+  }
+
+  .pub-footer {
+    flex: 0 0 auto;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: stretch;
+    gap: 0.5em;
+
+    .pub-details {
+      flex: 0 0 auto;
+    }
+
+    .pub-links {
+      justify-content: flex-start;
+      margin-top: 0.35em;
+    }
+  }
+}
+
+.badge {
+  position: absolute;
+  top: 0.65em;
+  left: 0.65em;
+  display: inline-flex;
+  align-items: center;
+  max-width: calc(100% - 1.3em);
+  padding: 0.3em 0.72em;
+  color: #fff;
+  background: rgba(25, 65, 126, 0.88);
+  border: 1px solid rgba(255, 255, 255, 0.34);
+  border-radius: 999px;
+  box-shadow: 0 4px 12px rgba(18, 45, 88, 0.2);
+  backdrop-filter: blur(8px) saturate(1.25);
+  -webkit-backdrop-filter: blur(8px) saturate(1.25);
+  font-size: 0.72em;
+  font-weight: 700;
+  line-height: 1.2;
+  z-index: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.badge--inline {
+  position: static;
+  flex: 0 0 auto;
+  max-width: 100%;
+  color: $info-color;
+  background: rgba($info-color, 0.08);
+  border-color: rgba($info-color, 0.16);
+  box-shadow: none;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.edu-box {
+  --card-image-width: #{$edu-box-image-width};
+  --card-image-min: 180px;
+  --card-image-share: 28%;
+
+  .paper-box-image img {
+    box-shadow: none;
+  }
+
+  .paper-box-text p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.paper-box--featured,
+.edu-box {
+  @include breakpoint($medium) {
+    display: grid;
+    grid-template-columns: minmax(var(--card-image-min), var(--card-image-share)) minmax(0, 1fr);
+    gap: 1.5em;
+
+    .paper-box-image {
+      width: 100%;
+      min-width: 0;
+      max-width: none;
+
+      > div,
+      img {
+        width: 100%;
+      }
+    }
+
+    .paper-box-text {
+      align-self: center;
+      max-width: none;
+      padding-left: 0;
+    }
+  }
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-top: 0.5em;
+}
+
+.pub-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5em 1em;
+
+  .pub-title {
+    flex: 1 1 20em;
+    min-width: 0;
+  }
+}
+
+.pub-authors,
+.pub-venue,
+.pub-details {
+  margin-top: 0.35em;
+}
+
+.pub-details {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  row-gap: 0.35em;
+}
+
+.pub-detail-item {
+  display: inline-flex;
+  align-items: center;
+}
+
+.pub-detail-separator {
+  margin: 0 0.45em;
+  color: $light-gray;
+  font-weight: 400;
+}
+
+.pub-metric {
+  font-weight: 600;
+}
+
+.pub-highlight {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.12em 0.5em;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  font-size: 0.92em;
+  font-weight: 700;
+  line-height: 1.35;
+  white-space: nowrap;
+}
+
+.pub-highlight--hot {
+  color: #b42318;
+  background: #fff0ee;
+  border-color: #f5b7b1;
+}
+
+.pub-highlight--highly-cited {
+  color: #875700;
+  background: #fff7df;
+  border-color: #f2cf78;
+}
+
+.pub-author--self {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.pub-author-marker {
+  margin-left: 0.08em;
+  font-weight: 700;
+}
+
+.pub-author-legend {
+  margin: 0.15em 0 1.25em;
+  font-size: 0.82em;
+  color: $gray;
+}
+
+.pub-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 0.25em 1em;
+
+  .pub-details {
+    flex: 1 1 16em;
+  }
+
+  .pub-links {
+    flex: 0 1 auto;
+  }
+}
+
+.pub-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  min-height: 1.9em;
+  padding: 0.2em 0.75em;
+  font-size: 0.82em;
+  color: $info-color !important;
+  background: rgba($info-color, 0.07);
+  border: none;
+  border-radius: 999px;
+  text-decoration: none !important;
+  transition: background 0.2s, color 0.2s, transform 0.2s;
+  white-space: nowrap;
+
+  &:hover {
+    background: $info-color;
+    color: #fff !important;
+    text-decoration: none !important;
+    transform: translateY(-1px);
+  }
+
+  i,
+  .ai {
+    font-size: 1em;
+    width: 1em;
+    text-align: center;
+  }
+}
+
+.github-star-badge {
+  display: none;
+}
+
+.google-scholar-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  width: fit-content;
+  margin: 0.1em 0 0.75em;
+  padding: 0.22em 0.72em;
+  font-size: 0.82em;
+  line-height: 1.2;
+  color: #2764b1 !important;
+  background: #eef5ff;
+  border: 1px solid rgba(39, 100, 177, 0.16);
+  border-radius: 999px;
+  text-decoration: none !important;
+  white-space: nowrap;
+  transition: background 0.2s, border-color 0.2s, transform 0.2s;
+
+  &:hover {
+    background: #dcecff;
+    border-color: rgba(39, 100, 177, 0.28);
+    text-decoration: none !important;
+    transform: translateY(-1px);
+  }
+
+  .ai {
+    color: #4285f4;
+    font-size: 1.05em;
+  }
+}
+
+.google-scholar-badge--inline {
+  margin: 0 0.2em;
+  padding: 0.12em 0.55em;
+  vertical-align: middle;
+}
+
+.google-scholar-badge__count {
+  color: #174ea6;
+  font-weight: 700;
+}
+
+.google-scholar-badge[data-state="loading"] .google-scholar-badge__count,
+.google-scholar-badge[data-state="unavailable"] .google-scholar-badge__count {
+  color: #6b7280;
+}
+
+.pub-title {
+  font-size: 1.05em;
+  font-weight: 700;
+  line-height: 1.35;
+  color: $info-color !important;
+  text-decoration-line: underline !important;
+  text-decoration-color: transparent !important;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.18em;
+  transition: text-decoration-color 0.2s;
+
+  &:hover {
+    text-decoration-color: $info-color !important;
+  }
+}
