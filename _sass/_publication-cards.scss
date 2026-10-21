@@ -425,3 +425,23 @@ $compact-card-padding-block: 0.9em;
     text-decoration-color: $info-color !important;
   }
 }
+
+
+/* Optional institution lines for papers with author affiliations. */
+.pub-author-affiliation {
+  margin-left: 0.08em;
+  font-size: 0.72em;
+  font-weight: 400;
+}
+
+.pub-affiliations {
+  margin-top: 0.22em;
+  color: $gray;
+  font-size: 0.82em;
+  line-height: 1.5;
+}
+
+.pub-affiliation-separator {
+  margin: 0 0.4em;
+  color: $light-gray;
+}

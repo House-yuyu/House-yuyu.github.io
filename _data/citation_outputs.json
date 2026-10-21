@@ -118,5 +118,17 @@
       "apa": "Yang, H., Zhang, X., Ma, J., Zhu, L., Zhang, Y., Zhang, H., & Lin, W. (2025). Hierarchical Graph Attention Network for No-Reference Omnidirectional Image Quality Assessment. arXiv. https://arxiv.org/abs/2508.09843",
       "gb-t-7714": "[1] YANG H, ZHANG X, MA J, et al. Hierarchical Graph Attention Network for No-Reference Omnidirectional Image Quality Assessment[J/OL]. arXiv, 2025. https://arxiv.org/abs/2508.09843."
     }
+  },
+  "zhang2026preactir": {
+    "key": "zhang2026preactir",
+    "title": "Look Before You Restore: Learning to Predict Before Acting for Agentic Image Restoration",
+    "formats": {
+      "bibtex": "@unpublished{zhang2026preactir,\n\tauthor = {Zhang, Xu and Wan, Jun and Zhang, Lefei and Zhang, Liangpei},\n\tyear = {2026},\n\thowpublished = {Under review},\n\ttitle = {{Look Before You Restore: Learning to Predict Before Acting for Agentic Image Restoration}},\n}",
+      "ris": "TY  - MANSCPT\nAU  - Zhang, Xu\nAU  - Wan, Jun\nAU  - Zhang, Lefei\nAU  - Zhang, Liangpei\nDA  - 2026///\nPY  - 2026\nID  - zhang2026preactir\nTI  - Look Before You Restore: Learning to Predict Before Acting for Age\nntic Image Restoration\nER  -",
+      "csl-json": "{\n  \"id\": \"zhang2026preactir\",\n  \"type\": \"manuscript\",\n  \"title\": \"Look Before You Restore: Learning to Predict Before Acting for Agentic Image Restoration\",\n  \"author\": [\n    {\n      \"family\": \"Zhang\",\n      \"given\": \"Xu\"\n    },\n    {\n      \"family\": \"Wan\",\n      \"given\": \"Jun\"\n    },\n    {\n      \"family\": \"Zhang\",\n      \"given\": \"Lefei\"\n    },\n    {\n      \"family\": \"Zhang\",\n      \"given\": \"Liangpei\"\n    }\n  ],\n  \"publisher\": \"Under review\",\n  \"issued\": {\n    \"date-parts\": [\n      [\n        2026\n      ]\n    ]\n  }\n}",
+      "ieee": "[1] X. Zhang, J. Wan, L. Zhang, and L. Zhang, “Look Before You Restore: Learning to Predict Before Acting for Agentic Image Restoration,” Under review, 2026.",
+      "apa": "Zhang, X., Wan, J., Zhang, L., & Zhang, L. (2026). Look Before You Restore: Learning to Predict Before Acting for Agentic Image Restoration. Under review.",
+      "gb-t-7714": "[1] ZHANG X, WAN J, ZHANG L, et al. Look Before You Restore: Learning to Predict Before Acting for Agentic Image Restoration[Z]. Under review, 2026."
+    }
   }
 }

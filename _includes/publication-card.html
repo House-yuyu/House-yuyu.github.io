@@ -25,8 +25,15 @@
     <div class="pub-authors">
       {%- for author in reference.author -%}
         {%- assign author_index = forloop.index -%}
-        <span{% if author.given == site.author.citation_name.given and author.family == site.author.citation_name.family %} class="pub-author--self"{% endif %}>{{ author.given }} {{ author.family }}</span>{% if equal_authors contains author_index %}<sup class="pub-author-marker" title="Equal contribution">&dagger;</sup>{% endif %}{% if corresponding_authors contains author_index %}<sup class="pub-author-marker" title="Corresponding author">&#128231;</sup>{% endif %}{% unless forloop.last %}, {% endunless %}
+        <span{% if author.given == site.author.citation_name.given and author.family == site.author.citation_name.family %} class="pub-author--self"{% endif %}>{{ author.given }} {{ author.family }}</span>{% if pub.authorAffiliations %}{% assign affiliation_mark = pub.authorAffiliations[forloop.index0] %}{% if affiliation_mark %}<sup class="pub-author-affiliation">{{ affiliation_mark }}</sup>{% endif %}{% endif %}{% if equal_authors contains author_index %}<sup class="pub-author-marker" title="Equal contribution">&dagger;</sup>{% endif %}{% if corresponding_authors contains author_index %}<sup class="pub-author-marker" title="Corresponding author">&#128231;</sup>{% endif %}{% unless forloop.last %}, {% endunless %}
       {%- endfor -%}
+    </div>
+    {% endif %}
+    {% if pub.affiliations and pub.affiliations.size > 0 %}
+    <div class="pub-affiliations">
+      {% for affiliation in pub.affiliations %}
+      <span class="lang-en"><sup>{{ affiliation.id }}</sup>{{ affiliation.name }}</span><span class="lang-zh"><sup>{{ affiliation.id }}</sup>{{ affiliation.name_zh | default: affiliation.name }}</span>{% unless forloop.last %}<span class="pub-affiliation-separator"> · </span>{% endunless %}
+      {% endfor %}
     </div>
     {% endif %}
     <div class="pub-venue"><em>{{ pub.venue }}</em>, {{ pub.year }}</div>

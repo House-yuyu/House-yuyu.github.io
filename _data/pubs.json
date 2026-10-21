@@ -3,7 +3,12 @@
     {
       "id": "zhang2025perceiveir",
       "title": "Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration",
-      "authorRoles": { "equalContribution": [1, 2] },
+      "authorRoles": {
+        "equalContribution": [
+          1,
+          2
+        ]
+      },
       "venue": "IEEE Transactions on Image Processing",
       "venueShort": "IEEE TIP",
       "year": 2025,
@@ -12,12 +17,24 @@
       "doi": "https://ieeexplore.ieee.org/document/10990319/",
       "note": "All-in-One Image Restoration",
       "highlights": [
-        { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
+        {
+          "type": "highly-cited",
+          "label": "ESI Highly Cited Paper (Top 1%)"
+        }
       ],
       "links": [
-        { "name": "PDF", "url": "https://arxiv.org/pdf/2408.15994" },
-        { "name": "Project", "url": "https://house-yuyu.github.io/Perceive-IR" },
-        { "name": "Code", "url": "https://github.com/House-yuyu/Perceive-IR" }
+        {
+          "name": "PDF",
+          "url": "https://arxiv.org/pdf/2408.15994"
+        },
+        {
+          "name": "Project",
+          "url": "https://house-yuyu.github.io/Perceive-IR"
+        },
+        {
+          "name": "Code",
+          "url": "https://github.com/House-yuyu/Perceive-IR"
+        }
       ],
       "referenceKey": "zhang2025perceiveir"
     },
@@ -32,16 +49,30 @@
       "doi": "https://arxiv.org/abs/2501.12981",
       "note": "All-in-One Underwater Image Restoration",
       "links": [
-        { "name": "PDF", "url": "https://arxiv.org/pdf/2501.12981" },
-        { "name": "Project", "url": "https://house-yuyu.github.io/UniUIR/" },
-        { "name": "Code", "url": "https://github.com/House-yuyu/UniUIR" }
+        {
+          "name": "PDF",
+          "url": "https://arxiv.org/pdf/2501.12981"
+        },
+        {
+          "name": "Project",
+          "url": "https://house-yuyu.github.io/UniUIR/"
+        },
+        {
+          "name": "Code",
+          "url": "https://github.com/House-yuyu/UniUIR"
+        }
       ],
       "referenceKey": "zhang2025uniuir"
     },
     {
       "id": "zhang2025mddaformer",
       "title": "Joint Multi-dimensional Dynamic Attention and Transformer for General Image Restoration",
-      "authorRoles": { "corresponding": [2, 3] },
+      "authorRoles": {
+        "corresponding": [
+          2,
+          3
+        ]
+      },
       "venue": "Computer Vision and Image Understanding",
       "venueShort": "CVIU",
       "year": 2025,
@@ -50,8 +81,14 @@
       "doi": "https://www.sciencedirect.com/science/article/pii/S1077314225002140",
       "note": "General Image Restoration",
       "links": [
-        { "name": "PDF", "url": "https://arxiv.org/pdf/2411.07893" },
-        { "name": "Code", "url": "https://github.com/House-yuyu/MDDA-former" }
+        {
+          "name": "PDF",
+          "url": "https://arxiv.org/pdf/2411.07893"
+        },
+        {
+          "name": "Code",
+          "url": "https://github.com/House-yuyu/MDDA-former"
+        }
       ],
       "referenceKey": "zhang2025mddaformer"
     },
@@ -66,8 +103,14 @@
       "doi": "https://ieeexplore.ieee.org/document/10036109",
       "note": "Synthesized View Quality Enhancement",
       "links": [
-        { "name": "PDF", "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109" },
-        { "name": "Code", "url": "https://github.com/House-yuyu/AFD-former" }
+        {
+          "name": "PDF",
+          "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109"
+        },
+        {
+          "name": "Code",
+          "url": "https://github.com/House-yuyu/AFD-former"
+        }
       ],
       "referenceKey": "zhang2023afdformer"
     }
@@ -76,7 +119,12 @@
     {
       "id": "wang2026interlight",
       "title": "InterLight: Leveraging Intrinsic Illumination Priors for Low-Light Image Enhancement",
-      "authorRoles": { "corresponding": [2, 6] },
+      "authorRoles": {
+        "corresponding": [
+          2,
+          6
+        ]
+      },
       "venue": "International Joint Conference on Artificial Intelligence",
       "venueShort": "IJCAI",
       "year": 2026,
@@ -85,8 +133,14 @@
       "doi": "https://arxiv.org/abs/2605.19982",
       "note": "Low-Light Image Enhancement",
       "links": [
-        { "name": "PDF", "url": "https://arxiv.org/pdf/2605.19982" },
-        { "name": "Code", "url": "https://github.com/House-yuyu/InterLight" }
+        {
+          "name": "PDF",
+          "url": "https://arxiv.org/pdf/2605.19982"
+        },
+        {
+          "name": "Code",
+          "url": "https://github.com/House-yuyu/InterLight"
+        }
       ],
       "referenceKey": "wang2026interlight"
     },
@@ -101,11 +155,20 @@
       "doi": "https://doi.org/10.1609/aaai.v40i15.38283",
       "note": "Controllable Remote Sensing Image Generation",
       "highlights": [
-        { "type": "hot", "label": "Oral Presentation" }
+        {
+          "type": "hot",
+          "label": "Oral Presentation"
+        }
       ],
       "links": [
-        { "name": "PDF", "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38283/42245" },
-        { "name": "Code", "url": "https://github.com/House-yuyu/Any2RSI" }
+        {
+          "name": "PDF",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38283/42245"
+        },
+        {
+          "name": "Code",
+          "url": "https://github.com/House-yuyu/Any2RSI"
+        }
       ],
       "referenceKey": "zhang2026any2rsi"
     },
@@ -120,8 +183,14 @@
       "doi": "https://doi.org/10.1609/aaai.v40i15.38284",
       "note": "All-in-One Image Restoration",
       "links": [
-        { "name": "PDF", "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38284/42246" },
-        { "name": "Code", "url": "https://github.com/House-yuyu/ClearAIR" }
+        {
+          "name": "PDF",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38284/42246"
+        },
+        {
+          "name": "Code",
+          "url": "https://github.com/House-yuyu/ClearAIR"
+        }
       ],
       "referenceKey": "zhang2026clearair"
     }
@@ -137,8 +206,35 @@
       "image": "images/papers/PreActIR.png",
       "note": "Agentic Image Restoration",
       "links": [
-        { "name": "Code", "url": "https://github.com/House-yuyu/PreActIR" }
-      ]
+        {
+          "name": "Code",
+          "url": "https://github.com/House-yuyu/PreActIR"
+        }
+      ],
+      "authorRoles": {
+        "corresponding": [
+          3
+        ]
+      },
+      "authorAffiliations": [
+        1,
+        2,
+        1,
+        1
+      ],
+      "affiliations": [
+        {
+          "id": 1,
+          "name": "Wuhan University",
+          "name_zh": "武汉大学"
+        },
+        {
+          "id": 2,
+          "name": "Zhongnan University of Economics and Law",
+          "name_zh": "中南财经政法大学"
+        }
+      ],
+      "referenceKey": "zhang2026preactir"
     },
     {
       "id": "zhang2026proteus",
@@ -151,8 +247,14 @@
       "doi": "https://arxiv.org/abs/2608.08661",
       "note": "Underwater Image Restoration",
       "links": [
-        { "name": "PDF", "url": "https://arxiv.org/pdf/2608.08661" },
-        { "name": "Code", "url": "https://github.com/House-yuyu/PROTEUS" }
+        {
+          "name": "PDF",
+          "url": "https://arxiv.org/pdf/2608.08661"
+        },
+        {
+          "name": "Code",
+          "url": "https://github.com/House-yuyu/PROTEUS"
+        }
       ],
       "referenceKey": "zhang2026proteus"
     },
@@ -166,14 +268,22 @@
       "image": "images/papers/CogRestore.png",
       "note": "Remote Sensing Image Restoration",
       "links": [
-        { "name": "Code", "url": "https://github.com/House-yuyu/CogRestore" }
+        {
+          "name": "Code",
+          "url": "https://github.com/House-yuyu/CogRestore"
+        }
       ],
       "referenceKey": "zhang2026cogrestore"
     },
     {
       "id": "yang2025omniqa",
       "title": "Hierarchical Graph Attention Network for No-Reference Omnidirectional Image Quality Assessment",
-      "authorRoles": { "equalContribution": [1, 2] },
+      "authorRoles": {
+        "equalContribution": [
+          1,
+          2
+        ]
+      },
       "venue": "arXiv",
       "venueShort": "arXiv",
       "year": 2025,
@@ -182,7 +292,10 @@
       "doi": "https://arxiv.org/abs/2508.09843",
       "note": "Omnidirectional Image Quality Assessment",
       "links": [
-        { "name": "PDF", "url": "https://arxiv.org/pdf/2508.09843" }
+        {
+          "name": "PDF",
+          "url": "https://arxiv.org/pdf/2508.09843"
+        }
       ],
       "referenceKey": "yang2025omniqa"
     }
