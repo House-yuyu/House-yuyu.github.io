@@ -12,6 +12,10 @@ main:
     title_zh: "论文"
     url: "/#publications"
 
+  - title: "Honors"
+    title_zh: "荣誉"
+    url: "/#honors"
+
   - title: "Experience"
     title_zh: "科研经历"
     url: "/#experience"

@@ -128,6 +128,19 @@
   ],
   "preprint": [
     {
+      "id": "preactir2026",
+      "title": "Look Before You Restore: Learning to Predict Before Acting for Agentic Image Restoration",
+      "venue": "Under Review",
+      "venueShort": "Under Review",
+      "year": 2026,
+      "badge": "Under Review",
+      "image": "images/papers/PreActIR.png",
+      "note": "Agentic Image Restoration",
+      "links": [
+        { "name": "Code", "url": "https://github.com/House-yuyu/PreActIR" }
+      ]
+    },
+    {
       "id": "zhang2026proteus",
       "title": "Degradation-Guided Underwater Image Restoration with Task-Oriented Latent Control",
       "venue": "arXiv",

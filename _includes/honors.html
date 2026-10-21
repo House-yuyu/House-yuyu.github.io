@@ -1,3 +1,7 @@
+{% if site.data.honors.size > 0 %}
+<ul class="honors-list">
 {% for item in site.data.honors %}
-- _{{ item.year }}_,&ensp;{{ item.content | replace: "|", "&#124;" }}.
+  <li><strong>{{ item.year }}</strong> · <span class="lang-en">{{ item.content }}</span><span class="lang-zh">{{ item.content_zh | default: item.content }}</span></li>
 {% endfor %}
+</ul>
+{% endif %}

@@ -52,6 +52,11 @@ redirect_from:
 
 {% include publications.html %}
 
+# <span class="lang-en">🏆 Honors & Awards</span><span class="lang-zh">🏆 荣誉奖励</span>
+{: #honors}
+
+{% include honors.html %}
+
 # <span class="lang-en">🔬 Experience</span><span class="lang-zh">🔬 科研经历</span>
 {: #experience}
 
