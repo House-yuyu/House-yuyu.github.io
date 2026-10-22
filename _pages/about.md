@@ -79,12 +79,12 @@ redirect_from:
 
 ## Conference Reviewer
 
-- ACM Multimedia 2025/2026, ICLR 2024/2025/2026, AAAI 2026/2027, CVPR 2026, ICML 2026, and ECCV 2026.
+- ACM Multimedia 2025/2026, ICLR 2024/2025/2026/2027, AAAI 2026/2027, CVPR 2026, ICML 2026, and ECCV 2026.
 
 ## Journal Reviewer
 
-- IEEE TIP, TNNLS, TCSVT, TMM, and TGRS.
-- Pattern Recognition, Engineering Applications of Artificial Intelligence, and Expert Systems with Applications.
+- IEEE TPAMI, TIP, TNNLS, TCSVT, TMM, TGRS, etc.
+- Pattern Recognition, IJCV, Neural Networks, Engineering Applications of Artificial Intelligence, Expert Systems with Applications, etc.
 
 </div>
 
@@ -92,12 +92,12 @@ redirect_from:
 
 ## 会议审稿人
 
-- ACM Multimedia 2025/2026、ICLR 2024/2025/2026、AAAI 2026/2027、CVPR 2026、ICML 2026 和 ECCV 2026。
+- ACM Multimedia 2025/2026、ICLR 2024/2025/2026/2027、AAAI 2026/2027、CVPR 2026、ICML 2026 和 ECCV 2026。
 
 ## 期刊审稿人
 
-- IEEE TIP、TNNLS、TCSVT、TMM 和 TGRS。
-- Pattern Recognition、Engineering Applications of Artificial Intelligence 和 Expert Systems with Applications。
+- IEEE TPAMI、TIP、TNNLS、TCSVT、TMM、TGRS 等。
+- Pattern Recognition、IJCV、Neural Networks、Engineering Applications of Artificial Intelligence、Expert Systems with Applications 等。
 
 </div>
 
