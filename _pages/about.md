@@ -84,7 +84,7 @@ redirect_from:
 ## Journal Reviewer
 
 - IEEE TPAMI, TIP, TNNLS, TCSVT, TMM, TGRS, etc.
-- Pattern Recognition, IJCV, Neural Networks, Engineering Applications of Artificial Intelligence, Expert Systems with Applications, etc.
+- IJCV, Pattern Recognition, Neural Networks, Engineering Applications of Artificial Intelligence, Expert Systems with Applications, etc.
 
 </div>
 
@@ -97,7 +97,7 @@ redirect_from:
 ## 期刊审稿人
 
 - IEEE TPAMI、TIP、TNNLS、TCSVT、TMM、TGRS 等。
-- Pattern Recognition、IJCV、Neural Networks、Engineering Applications of Artificial Intelligence、Expert Systems with Applications 等。
+- IJCV、Pattern Recognition、Neural Networks、Engineering Applications of Artificial Intelligence、Expert Systems with Applications 等。
 
 </div>
 

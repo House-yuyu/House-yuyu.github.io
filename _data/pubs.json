@@ -207,6 +207,10 @@
       "note": "Agentic Image Restoration",
       "links": [
         {
+          "name": "PDF",
+          "url": "https://arxiv.org/pdf/2610.20384"
+        },
+        {
           "name": "Code",
           "url": "https://github.com/House-yuyu/PreActIR"
         }
@@ -216,25 +220,8 @@
           3
         ]
       },
-      "authorAffiliations": [
-        1,
-        2,
-        1,
-        1
-      ],
-      "affiliations": [
-        {
-          "id": 1,
-          "name": "Wuhan University",
-          "name_zh": "武汉大学"
-        },
-        {
-          "id": 2,
-          "name": "Zhongnan University of Economics and Law",
-          "name_zh": "中南财经政法大学"
-        }
-      ],
-      "referenceKey": "zhang2026preactir"
+      "referenceKey": "zhang2026preactir",
+      "doi": "https://arxiv.org/abs/2610.20384"
     },
     {
       "id": "zhang2026proteus",
