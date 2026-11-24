@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026.11",
+    "emoji": "🎉",
+    "content": "One paper was accepted by **IEEE TCSVT**.",
+    "content_zh": "一篇论文被 **IEEE TCSVT** 录用。"
+  },
+  {
     "date": "2026.05",
     "emoji": "🎉",
     "content": "Our paper [**InterLight**](https://arxiv.org/abs/2605.19982) was accepted by **IJCAI 2026**.",
